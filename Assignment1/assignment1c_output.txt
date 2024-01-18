@@ -1,0 +1,9 @@
+C:\Users\root\AppData\Local\Microsoft\WindowsApps\python3.10.exe C:\Users\root\PycharmProjects\Assignments\Assignment1C\Assignment1C.py
+Your Computer Name: DESKTOP-EFQVI26
+Your Computer IP Address: 192.168.56.1
+The binary address is  11000000101010000011100000000001
+The class is C
+The port type of  80 is  Well Known
+Socket successfully created
+the socket has successfully connected to www.google.com on port 80
+"Till we reach the end, just stay strong, and be a friend..."

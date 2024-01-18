@@ -1,0 +1,4 @@
+C:\Users\root\AppData\Local\Microsoft\WindowsApps\python3.10.exe C:\Users\root\PycharmProjects\Assignments\Assignment1C\Assignment1S.py
+Socket successfully created
+socket binded to 80
+socket is listening
