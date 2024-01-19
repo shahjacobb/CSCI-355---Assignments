@@ -1,8 +1,8 @@
 # Queens College
-# Internet and Web Technology (CSCI 355)
+# CSCI 355 - Internet and Web Technology 
+# Winter 2024
 # Shah Bhuiyan
 # Assignment 11 - Web-Based Application
-# name
 # Worked with the class
 
 
