@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <form action = "/my_state" method = "POST">
+          <label for="state">Choose a state:</label>
+            <select name="state" id="state">
+                {% for state in states %}
+                    <option value="{{state}}">{{state}}</option>
+                {% endfor %}
+            </select>
+         <p><input type="submit" value="Submit"/></p>
+      </form>
+</body>
+</html>
